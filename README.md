@@ -1,3 +1,5 @@
+Fork of a project for a software development class in order to play around with pentesting the site and addressing discovered vulnerabilities. Original readme below.
+
 # Furr-ever Home
 A website for helping rescue pets get adopted. The site includes a matching algorithm that helps users finds pets that they will get along with.
 
